@@ -9,6 +9,9 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 🧰 功能
 
 🚀 快速開始
+
 1.無需安裝
+
 2.打開你的瀏覽器並前往：
+
 👉[心動小鎮像素畫布轉換工具](https://chen0303.github.io/Heartopia_PixelTool/)
