@@ -95,18 +95,5 @@ So I built a complete front-end solution with advanced UI interactions and color
 ✨ Core Features
 
 
-<br>
 
-🚀 Local Development
-
-```
-npm install
-npm run dev
-```
-
-Build:
-
-```
-npm run build
-```
 
