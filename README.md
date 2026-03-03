@@ -30,6 +30,7 @@
 3. 選擇不同像素精細度
 4. 自動轉換為符合遊戲調色盤的像素圖
 5. 快速對照顏色並高效繪製
+6. 支援中/英語言
 <br>
 
 🖼 **預覽畫面**
@@ -84,6 +85,7 @@ Players needed a way to:
 - Convert images into pixel art
 - Match exact in-game colors
 - Draw efficiently color-by-color
+- Add language support for Chinese and English
 
 So I built a complete front-end solution with advanced UI interactions and color-matching logic.
 
