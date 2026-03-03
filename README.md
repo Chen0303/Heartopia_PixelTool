@@ -62,8 +62,6 @@
 * 動態網格生成
 * 色彩轉換處理（RGB / HEX / HSL）
 
-📌 `<script setup>`
-
 ## 🎨 Heartopia Pixel Tool
 
 > **Advanced Pixel Art Converter with Game Palette Mapping**
@@ -100,9 +98,6 @@ So I built a complete front-end solution with advanced UI interactions and color
 - Canvas API
 - Custom color distance algorithm
 - Reactive state-driven UI system
-
-✨ Core Features
-
 
 
 
