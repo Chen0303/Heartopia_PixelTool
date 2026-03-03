@@ -35,12 +35,21 @@
 🖼 **預覽畫面**
 
 🔹 圖片上傳與比例選擇
+<img width="1341" height="358" alt="螢幕擷取畫面 2026-03-04 005807" src="https://github.com/user-attachments/assets/62aa0ea5-958f-4d43-abd1-3ce28ab4db3b" />
 
 🔹 原圖與像素圖即時對照
 
+<img width="1314" height="507" alt="螢幕擷取畫面 2026-03-04 005843" src="https://github.com/user-attachments/assets/00149a2e-cd9e-4512-9e58-a4f77060b070" />
+
 🔹 像素預覽彈窗模式
 
+<img width="1897" height="868" alt="螢幕擷取畫面 2026-03-04 010018" src="https://github.com/user-attachments/assets/1b6abd42-d418-4287-b8dc-f99fd1ab3ced" />
+
 🔹 色塊篩選高亮模式（繪製輔助功能）
+
+<img width="844" height="690" alt="螢幕擷取畫面 2026-03-04 010920" src="https://github.com/user-attachments/assets/e235e838-5b33-4b34-ad72-be8bf9a191aa" />
+
+<img width="1645" height="790" alt="螢幕擷取畫面 2026-03-04 011016" src="https://github.com/user-attachments/assets/94600be9-1eeb-45d2-adc2-768e495a63fd" />
 
 <br>
 
