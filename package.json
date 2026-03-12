@@ -13,9 +13,11 @@
     "@vicons/fluent": "^0.13.0",
     "@vicons/material": "^0.13.0",
     "element-plus": "^2.13.2",
+    "firebase": "^12.10.0",
     "tailwindcss": "^4.1.18",
     "vite-svg-loader": "^5.1.0",
-    "vue": "^3.5.25"
+    "vue": "^3.5.25",
+    "vue-advanced-cropper": "^2.8.9"
   },
   "devDependencies": {
     "@types/node": "^24.10.1",
